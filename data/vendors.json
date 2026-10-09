@@ -1,0 +1,773 @@
+[
+ {
+  "id": "V00001",
+  "name": "Dayforce, Inc.",
+  "hq_country": "Canada",
+  "ownership": "canadian",
+  "ownership_evidence": "https://www.globenewswire.com/news-release/2024/02/01/2821852/0/en/Ceridian-Becomes-Dayforce.html",
+  "spend": 350600000.0,
+  "contracts": 1,
+  "variants": [
+   "Ceridian",
+   "Dayforce",
+   "Dayforce Inc.",
+   "Dayforce, Inc."
+  ],
+  "departments": [
+   "Public Services and Procurement Canada"
+  ],
+  "fiscal_years": [
+   "2025-26"
+  ]
+ },
+ {
+  "id": "V00002",
+  "name": "Cohere Inc.",
+  "hq_country": "Canada",
+  "ownership": "canadian",
+  "ownership_evidence": "https://www.hcamag.com/ca/specialization/transformation/canadian-ai-developer-cohere-to-form-global-ai-powerhouse-through-merger/573051",
+  "spend": 240000000.0,
+  "contracts": 1,
+  "variants": [
+   "Cohere",
+   "Cohere Inc."
+  ],
+  "departments": [
+   "Innovation Science and Economic Development Canada"
+  ],
+  "fiscal_years": [
+   "2024-25"
+  ]
+ },
+ {
+  "id": "V00006",
+  "name": "IBISKA - Lemay.ai JV",
+  "hq_country": "Canada",
+  "ownership": "canadian",
+  "ownership_evidence": "https://ibiska.com/get-in-touch/",
+  "spend": 11497500.0,
+  "contracts": 1,
+  "variants": [
+   "IBISKA",
+   "IBISKA - Lemay.ai JV",
+   "Lemay.ai JV"
+  ],
+  "departments": [
+   "Public Services and Procurement Canada"
+  ],
+  "fiscal_years": [
+   "2026-27"
+  ]
+ },
+ {
+  "id": "V00010",
+  "name": "Thales",
+  "hq_country": "France",
+  "ownership": "foreign",
+  "ownership_evidence": "https://en.wikipedia.org/wiki/Thales_Group",
+  "spend": 10299000.0,
+  "contracts": 2,
+  "variants": [
+   "Thales",
+   "Thales Canada Inc.",
+   "Thales Digital Solutions"
+  ],
+  "departments": [
+   "Public Services and Procurement Canada"
+  ],
+  "fiscal_years": [
+   "2023-24",
+   "2025-26"
+  ]
+ },
+ {
+  "id": "V00008",
+  "name": "Calian",
+  "hq_country": "Canada",
+  "ownership": "canadian",
+  "ownership_evidence": "https://craft.co/calian-group",
+  "spend": 6740077.95,
+  "contracts": 1,
+  "variants": [
+   "CALIAN LTD.",
+   "Calian",
+   "Calian Ltd."
+  ],
+  "departments": [
+   "Public Services and Procurement Canada"
+  ],
+  "fiscal_years": [
+   "2026-27"
+  ]
+ },
+ {
+  "id": "V00009",
+  "name": "Louis Tanguay Informatique",
+  "hq_country": "Canada",
+  "ownership": "canadian",
+  "ownership_evidence": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+  "spend": 5748750.0,
+  "contracts": 1,
+  "variants": [
+   "Louis Tanguay Informatique",
+   "Louis Tanguay Informatique (LTI) Inc.",
+   "Louis Tanguay Informatique Inc."
+  ],
+  "departments": [
+   "Public Services and Procurement Canada"
+  ],
+  "fiscal_years": [
+   "2024-25"
+  ]
+ },
+ {
+  "id": "V00011",
+  "name": "NuEnergy.ai",
+  "hq_country": "Canada",
+  "ownership": "canadian",
+  "ownership_evidence": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+  "spend": 3319375.0,
+  "contracts": 1,
+  "variants": [
+   "NewEnergy Community Inc.",
+   "NuEnergy.AI",
+   "NuEnergy.ai"
+  ],
+  "departments": [
+   "Public Services and Procurement Canada"
+  ],
+  "fiscal_years": [
+   "2024-25"
+  ]
+ },
+ {
+  "id": "V00012",
+  "name": "Experis",
+  "hq_country": "United States",
+  "ownership": "foreign",
+  "ownership_evidence": "https://en.wikipedia.org/wiki/ManpowerGroup",
+  "spend": 3309600.0,
+  "contracts": 1,
+  "variants": [
+   "EXPERIS CANADA INC.",
+   "Experis",
+   "Experis Canada Inc."
+  ],
+  "departments": [
+   "Department of Transport (TC)"
+  ],
+  "fiscal_years": [
+   "2025-26"
+  ]
+ },
+ {
+  "id": "V00013",
+  "name": "Ecopia AI",
+  "hq_country": "Canada",
+  "ownership": "canadian",
+  "ownership_evidence": "https://craft.co/ecopia-ai/locations",
+  "spend": 2570889.75,
+  "contracts": 2,
+  "variants": [
+   "Ecopia AI",
+   "Ecopia Tech Corporation"
+  ],
+  "departments": [
+   "Public Services and Procurement Canada"
+  ],
+  "fiscal_years": [
+   "2024-25",
+   "2025-26"
+  ]
+ },
+ {
+  "id": "V00014",
+  "name": "S.i. Systems",
+  "hq_country": "Canada",
+  "ownership": "canadian",
+  "ownership_evidence": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+  "spend": 2260000.0,
+  "contracts": 1,
+  "variants": [
+   "S.I. SYSTEMS PARTNERSHIP",
+   "S.I. Systems",
+   "S.i. Systems"
+  ],
+  "departments": [
+   "Department of Agriculture and Agri-Food (AAFC)"
+  ],
+  "fiscal_years": [
+   "2026-27"
+  ]
+ },
+ {
+  "id": "V00015",
+  "name": "EarthDaily Analytics",
+  "hq_country": "Canada",
+  "ownership": "canadian",
+  "ownership_evidence": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+  "spend": 2232852.16,
+  "contracts": 1,
+  "variants": [
+   "EARTHDAILY ANALYTICS CORP.",
+   "EarthDaily Analytics",
+   "EarthDaily Analytics Corp."
+  ],
+  "departments": [
+   "Public Services and Procurement Canada"
+  ],
+  "fiscal_years": [
+   "2025-26"
+  ]
+ },
+ {
+  "id": "V00017",
+  "name": "Orangutech",
+  "hq_country": "Canada",
+  "ownership": "canadian",
+  "ownership_evidence": "https://www.orangutech.com/our-story",
+  "spend": 1849385.93,
+  "contracts": 2,
+  "variants": [
+   "Orangutech",
+   "Orangutech Inc."
+  ],
+  "departments": [
+   "Public Services and Procurement Canada"
+  ],
+  "fiscal_years": [
+   "2024-25",
+   "2026-27"
+  ]
+ },
+ {
+  "id": "V00016",
+  "name": "Chaac Technologies",
+  "hq_country": "Canada",
+  "ownership": "canadian",
+  "ownership_evidence": "https://truenorthmap.ca/api/export?type=organization-dossier&slug=chaac-technologies",
+  "spend": 1571173.19,
+  "contracts": 1,
+  "variants": [
+   "Chaac Technologies"
+  ],
+  "departments": [
+   "Public Services and Procurement Canada"
+  ],
+  "fiscal_years": [
+   "2025-26"
+  ]
+ },
+ {
+  "id": "V00018",
+  "name": "Ada Support",
+  "hq_country": "Canada",
+  "ownership": "canadian",
+  "ownership_evidence": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+  "spend": 1333757.33,
+  "contracts": 1,
+  "variants": [
+   "Ada Support",
+   "Ada Support Inc."
+  ],
+  "departments": [
+   "Public Services and Procurement Canada"
+  ],
+  "fiscal_years": [
+   "2025-26"
+  ]
+ },
+ {
+  "id": "V00019",
+  "name": "Sensequake",
+  "hq_country": "Canada",
+  "ownership": "canadian",
+  "ownership_evidence": "https://theorg.com/org/sensequake",
+  "spend": 1312667.5,
+  "contracts": 1,
+  "variants": [
+   "Sensequake"
+  ],
+  "departments": [
+   "Public Services and Procurement Canada"
+  ],
+  "fiscal_years": [
+   "2025-26"
+  ]
+ },
+ {
+  "id": "V00020",
+  "name": "IndigenousTech.ai",
+  "hq_country": "Canada",
+  "ownership": "canadian",
+  "ownership_evidence": "https://www.indigenoustech.ai/about-us/",
+  "spend": 1251906.1,
+  "contracts": 1,
+  "variants": [
+   "IndigenousTech.ai",
+   "IndigenousTech.ai Corporation"
+  ],
+  "departments": [
+   "Public Services and Procurement Canada"
+  ],
+  "fiscal_years": [
+   "2025-26"
+  ]
+ },
+ {
+  "id": "V00021",
+  "name": "SkyWatch",
+  "hq_country": "Canada",
+  "ownership": "canadian",
+  "ownership_evidence": "https://www.osler.com/en/about-us/representative-work/skywatch-space-applications-inc/",
+  "spend": 1128870.0,
+  "contracts": 1,
+  "variants": [
+   "SkyWatch",
+   "SkyWatch Space Applications Inc."
+  ],
+  "departments": [
+   "Public Services and Procurement Canada"
+  ],
+  "fiscal_years": [
+   "2023-24"
+  ]
+ },
+ {
+  "id": "V00022",
+  "name": "Ai.Fish",
+  "hq_country": "United States",
+  "ownership": "foreign",
+  "ownership_evidence": "https://em4.fish/industry-focus-ai-fish-and-teemfish-establishing-electronic-monitoring-programs-for-fisheries-of-the-future/",
+  "spend": 1086450.2,
+  "contracts": 1,
+  "variants": [
+   "Ai.Fish",
+   "Ai.Fish LLC"
+  ],
+  "departments": [
+   "Public Services and Procurement Canada"
+  ],
+  "fiscal_years": [
+   "2022-23"
+  ]
+ },
+ {
+  "id": "V00023",
+  "name": "Arise Industries",
+  "hq_country": "Canada",
+  "ownership": "canadian",
+  "ownership_evidence": "https://www.can1business.com/company/Active/Arise-Industries-Inc",
+  "spend": 1075760.0,
+  "contracts": 1,
+  "variants": [
+   "Arise Industries"
+  ],
+  "departments": [
+   "Public Services and Procurement Canada"
+  ],
+  "fiscal_years": [
+   "2023-24"
+  ]
+ },
+ {
+  "id": "V00024",
+  "name": "Stoneworks Technologies",
+  "hq_country": "Canada (US-owned since 2023)",
+  "ownership": "foreign",
+  "ownership_evidence": "https://www.channele2e.com/news/fulcrum-it-partners-acquires-stoneworks-technologies",
+  "spend": 939574.66,
+  "contracts": 1,
+  "variants": [
+   "STONEWORKS TECHNOLOGIES INC",
+   "Stoneworks Technologies",
+   "Stoneworks Technologies Inc."
+  ],
+  "departments": [
+   "Shared Services Canada"
+  ],
+  "fiscal_years": [
+   "2025-26"
+  ]
+ },
+ {
+  "id": "V00025",
+  "name": "ResolveHD",
+  "hq_country": "Canada",
+  "ownership": "canadian",
+  "ownership_evidence": "https://entrevestor.com/home/entry/resolvehd-accepted-into-national-program",
+  "spend": 793500.0,
+  "contracts": 1,
+  "variants": [
+   "ResolveHD",
+   "ResolveHD Inc"
+  ],
+  "departments": [
+   "Public Services and Procurement Canada"
+  ],
+  "fiscal_years": [
+   "2025-26"
+  ]
+ },
+ {
+  "id": "V00003",
+  "name": "Teksystems",
+  "hq_country": "United States",
+  "ownership": "foreign",
+  "ownership_evidence": "https://www.thewirereport.ca/2026/10/01/disguise-canadian-feds-frame-u-s-chatbot-contracts-as-ottawa-based-procurement/",
+  "spend": 609761.0,
+  "contracts": 1,
+  "variants": [
+   "Teksystems",
+   "Teksystems Canada Corp"
+  ],
+  "departments": [
+   "Public Services and Procurement Canada"
+  ],
+  "fiscal_years": [
+   "2025-26"
+  ]
+ },
+ {
+  "id": "V00026",
+  "name": "CircuitMind",
+  "hq_country": "Canada",
+  "ownership": "canadian",
+  "ownership_evidence": "https://www.can1business.com/company/Active/Circuitmind-Inc",
+  "spend": 583503.55,
+  "contracts": 1,
+  "variants": [
+   "CircuitMind",
+   "CircuitMind Inc"
+  ],
+  "departments": [
+   "Public Services and Procurement Canada"
+  ],
+  "fiscal_years": [
+   "2024-25"
+  ]
+ },
+ {
+  "id": "V00027",
+  "name": "Korah Limited",
+  "hq_country": "Canada",
+  "ownership": "canadian",
+  "ownership_evidence": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+  "spend": 500000.0,
+  "contracts": 1,
+  "variants": [
+   "Korah Limited"
+  ],
+  "departments": [
+   "Public Services and Procurement Canada"
+  ],
+  "fiscal_years": [
+   "2023-24"
+  ]
+ },
+ {
+  "id": "V00028",
+  "name": "Novacene AI",
+  "hq_country": "Canada",
+  "ownership": "canadian",
+  "ownership_evidence": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+  "spend": 431334.5,
+  "contracts": 1,
+  "variants": [
+   "Novacene AI",
+   "Novacene AI Corp."
+  ],
+  "departments": [
+   "Public Services and Procurement Canada"
+  ],
+  "fiscal_years": [
+   "2023-24"
+  ]
+ },
+ {
+  "id": "V00029",
+  "name": "Donna Cona",
+  "hq_country": "Canada",
+  "ownership": "canadian",
+  "ownership_evidence": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+  "spend": 417648.0,
+  "contracts": 1,
+  "variants": [
+   "DONNA CONA",
+   "DONNA CONA INC.",
+   "Donna Cona",
+   "Donna Cona Inc."
+  ],
+  "departments": [
+   "Department of Transport (TC)"
+  ],
+  "fiscal_years": [
+   "2025-26"
+  ]
+ },
+ {
+  "id": "V00035",
+  "name": "Minose Solutions",
+  "hq_country": "Canada",
+  "ownership": "canadian",
+  "ownership_evidence": "https://www.ccib.ca/main/member/minose-solutions/",
+  "spend": 297469.93,
+  "contracts": 2,
+  "variants": [
+   "MINOSE SOLUTIONS LTD.",
+   "Minose Solutions",
+   "Minose Solutions Ltd."
+  ],
+  "departments": [
+   "Shared Services Canada"
+  ],
+  "fiscal_years": [
+   "2025-26"
+  ]
+ },
+ {
+  "id": "V00030",
+  "name": "Levio",
+  "hq_country": "Canada",
+  "ownership": "canadian",
+  "ownership_evidence": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+  "spend": 287364.77,
+  "contracts": 1,
+  "variants": [
+   "Levio",
+   "Levio Conseils Inc.",
+   "Levio Conseils inc."
+  ],
+  "departments": [
+   "Public Services and Procurement Canada"
+  ],
+  "fiscal_years": [
+   "2023-24"
+  ]
+ },
+ {
+  "id": "V00005",
+  "name": "PricewaterhouseCoopers",
+  "hq_country": "Canada",
+  "ownership": "uncertain",
+  "ownership_evidence": "https://www.thewirereport.ca/2026/10/01/disguise-canadian-feds-frame-u-s-chatbot-contracts-as-ottawa-based-procurement/",
+  "spend": 248529.0,
+  "contracts": 1,
+  "variants": [
+   "PricewaterhouseCoopers",
+   "PricewaterhouseCoopers LLP",
+   "PwC"
+  ],
+  "departments": [
+   "Public Services and Procurement Canada"
+  ],
+  "fiscal_years": [
+   "2025-26"
+  ]
+ },
+ {
+  "id": "V00031",
+  "name": "Industrio AI",
+  "hq_country": "Canada",
+  "ownership": "canadian",
+  "ownership_evidence": "https://www.newswire.ca/news-releases/industrio-launches-canadian-built-operational-intelligence-platform-862016785.html",
+  "spend": 235000.0,
+  "contracts": 1,
+  "variants": [
+   "Industrio AI",
+   "Industrio AI Inc."
+  ],
+  "departments": [
+   "Department of Western Economic Diversification (WD)"
+  ],
+  "fiscal_years": [
+   "2026-27"
+  ]
+ },
+ {
+  "id": "V00032",
+  "name": "Blue J Legal",
+  "hq_country": "Canada",
+  "ownership": "canadian",
+  "ownership_evidence": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+  "spend": 217102.46,
+  "contracts": 1,
+  "variants": [
+   "Blue J Legal",
+   "Blue J Legal Inc."
+  ],
+  "departments": [
+   "Canada Revenue Agency (CRA)"
+  ],
+  "fiscal_years": [
+   "2025-26"
+  ]
+ },
+ {
+  "id": "V00033",
+  "name": "Au-Zone Technologies",
+  "hq_country": "Canada",
+  "ownership": "canadian",
+  "ownership_evidence": "https://www.cbinsights.com/company/au-zone-technologies",
+  "spend": 172462.5,
+  "contracts": 1,
+  "variants": [
+   "Au-Zone Technologies"
+  ],
+  "departments": [
+   "Public Services and Procurement Canada"
+  ],
+  "fiscal_years": [
+   "2024-25"
+  ]
+ },
+ {
+  "id": "V00034",
+  "name": "Complex System Inc",
+  "hq_country": "Canada",
+  "ownership": "canadian",
+  "ownership_evidence": "https://open.canada.ca/data/dataset/a1acb126-9ce8-40a9-b889-5da2b1dd20cb",
+  "spend": 172134.82,
+  "contracts": 1,
+  "variants": [
+   "Complex System Inc"
+  ],
+  "departments": [
+   "Public Services and Procurement Canada"
+  ],
+  "fiscal_years": [
+   "2024-25"
+  ]
+ },
+ {
+  "id": "V00004",
+  "name": "Infosys Public Services",
+  "hq_country": "United States",
+  "ownership": "foreign",
+  "ownership_evidence": "https://www.thewirereport.ca/2026/10/01/disguise-canadian-feds-frame-u-s-chatbot-contracts-as-ottawa-based-procurement/",
+  "spend": 145218.0,
+  "contracts": 1,
+  "variants": [
+   "Infosys",
+   "Infosys Public Services",
+   "Infosys Public Services Inc"
+  ],
+  "departments": [
+   "Public Services and Procurement Canada"
+  ],
+  "fiscal_years": [
+   "2025-26"
+  ]
+ },
+ {
+  "id": "V00036",
+  "name": "CI Technologies",
+  "hq_country": "Canada",
+  "ownership": "canadian",
+  "ownership_evidence": "https://open.canada.ca/data/dataset/a1acb126-9ce8-40a9-b889-5da2b1dd20cb",
+  "spend": 104857.2,
+  "contracts": 1,
+  "variants": [
+   "CI Technologies",
+   "CI Technologies, Inc."
+  ],
+  "departments": [
+   "Public Services and Procurement Canada"
+  ],
+  "fiscal_years": [
+   "2022-23"
+  ]
+ },
+ {
+  "id": "V00037",
+  "name": "6854265 Canada Inc",
+  "hq_country": "Canada",
+  "ownership": "uncertain",
+  "ownership_evidence": "https://open.canada.ca/data/dataset/a1acb126-9ce8-40a9-b889-5da2b1dd20cb",
+  "spend": 96176.59,
+  "contracts": 1,
+  "variants": [
+   "6854265 CANADA INC.",
+   "6854265 Canada Inc",
+   "6854265 Canada Inc.",
+   "6854265 Canada Inc. / Tankatek Inc"
+  ],
+  "departments": [
+   "Shared Services Canada"
+  ],
+  "fiscal_years": [
+   "2026-27"
+  ]
+ },
+ {
+  "id": "V00038",
+  "name": "13064204 Canada Inc",
+  "hq_country": "Canada",
+  "ownership": "uncertain",
+  "ownership_evidence": "https://open.canada.ca/data/dataset/a1acb126-9ce8-40a9-b889-5da2b1dd20cb",
+  "spend": 60839.2,
+  "contracts": 1,
+  "variants": [
+   "13064204 Canada Inc",
+   "13064204 Canada Inc."
+  ],
+  "departments": [
+   "Shared Services Canada"
+  ],
+  "fiscal_years": [
+   "2023-24"
+  ]
+ },
+ {
+  "id": "V00039",
+  "name": "RideShark Corporation",
+  "hq_country": "Canada",
+  "ownership": "canadian",
+  "ownership_evidence": "https://open.canada.ca/data/dataset/a1acb126-9ce8-40a9-b889-5da2b1dd20cb",
+  "spend": 45764.77,
+  "contracts": 1,
+  "variants": [
+   "RideShark Corporation"
+  ],
+  "departments": [
+   "Public Services and Procurement Canada"
+  ],
+  "fiscal_years": [
+   "2025-26"
+  ]
+ },
+ {
+  "id": "V00040",
+  "name": "Anaconda Inc",
+  "hq_country": "United States",
+  "ownership": "foreign",
+  "ownership_evidence": "https://open.canada.ca/data/dataset/a1acb126-9ce8-40a9-b889-5da2b1dd20cb",
+  "spend": 21842.0,
+  "contracts": 1,
+  "variants": [
+   "Anaconda Inc",
+   "Anaconda Inc.",
+   "Anaconda, Inc."
+  ],
+  "departments": [
+   "Canada Border Services Agency (CBSA)"
+  ],
+  "fiscal_years": [
+   "2023-24"
+  ]
+ },
+ {
+  "id": "V00007",
+  "name": "Lemay.ai",
+  "hq_country": "Canada",
+  "ownership": "canadian",
+  "ownership_evidence": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+  "spend": 0.0,
+  "contracts": 0,
+  "variants": [
+   "Lemay.ai"
+  ],
+  "departments": [],
+  "fiscal_years": []
+ }
+]
