@@ -14,14 +14,14 @@
   "uncertain_note_en": "Vendors coded 'uncertain' are shown separately and excluded from the Canadian and foreign shares.",
   "uncertain_note_fr": "Les fournisseurs au statut incertain sont présentés séparément."
  },
- "tracked_spend": 655568098.06,
- "procurement_spend": 415568098.05999994,
+ "tracked_spend": 655333098.06,
+ "procurement_spend": 415333098.05999994,
  "investment_spend": 240000000.0,
- "canadian_spend": 638751107.4100002,
+ "canadian_spend": 638516107.4100002,
  "foreign_spend": 16411445.86,
  "uncertain_spend": 405544.79,
- "contract_count": 43,
- "vendor_count": 40,
+ "contract_count": 42,
+ "vendor_count": 39,
  "by_department": [
   {
    "department": "Public Services and Procurement Canada",
@@ -47,11 +47,6 @@
    "department": "Shared Services Canada",
    "spend": 1394060.38,
    "contracts": 5
-  },
-  {
-   "department": "Department of Western Economic Diversification (WD)",
-   "spend": 235000.0,
-   "contracts": 1
   },
   {
    "department": "Canada Revenue Agency (CRA)",
@@ -87,8 +82,8 @@
   },
   {
    "fiscal_year": "2026-27",
-   "spend": 21273707.54,
-   "contracts": 6
+   "spend": 21038707.54,
+   "contracts": 5
   }
  ],
  "top_vendor_ids": [

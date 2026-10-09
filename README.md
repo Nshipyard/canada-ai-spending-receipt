@@ -18,13 +18,13 @@ Live: https://aispend.canada.nshipyard.com (pending deploy)
 
 ## What the data shows
 
-**$655.6M tracked** across 43 verifiable contracts and 40 canonical vendors, against the $800M+ Canadian Press topline (May 2026). Of the tracked dollars:
+**$655.3M tracked** across 42 verifiable contracts and 39 canonical vendors, against the $800M+ Canadian Press topline (May 2026). Of the tracked dollars:
 
-- **Canadian-owned: $638.8M (97.4%)** - dominated by the $350.6M Dayforce payroll contract (PSPC, 10 years, signed June 2025) and the $240M Cohere investment (ISED, AI Compute Challenge, Dec 2024).
+- **Canadian-owned: $638.5M (97.4%)** - dominated by the $350.6M Dayforce payroll contract (PSPC, 10 years, signed June 2025) and the $240M Cohere investment (ISED, AI Compute Challenge, Dec 2024).
 - **Foreign-owned: $16.4M (2.5%)** - the largest foreign vendor is Thales (France, $10.3M across two contracts); the Procura tail adds Teksystems and Infosys Public Services (both US, listed as Ottawa-based in Q-1229).
 - **Ownership uncertain: $0.4M (0.1%)** - including PwC and two numbered companies, listed separately and excluded from both shares.
 
-Procurement-only total: $415.6M. The $240M Cohere item is an investment, reported separately so the December 2025 Buy Canadian Policy can be tested against actual awards.
+Procurement-only total: $415.3M. The $240M Cohere item is an investment, reported separately so the December 2025 Buy Canadian Policy can be tested against actual awards.
 
 The split is honest about its limits: this is the verifiable portion of the topline, a floor, not a census. Two flags ride with the Canadian share: Thoma Bravo (US) closed a US$12.3B acquisition of Dayforce in February 2026, after the contract award; and Cohere used the federal money to commission American-owned CoreWeave to build and operate the Canadian data centre.
 

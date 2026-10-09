@@ -110,6 +110,10 @@ def main():
             if amount is None or not raw_vendor or not source_url:
                 quarantined.append({"id": cid, "reason": "unparseable amount, missing vendor, or missing source_url"})
                 continue
+            # cancelled award notices are not contracts; quarantine them
+            if "cancelled" in (r.get("notes") or "").lower() or "canceled" in (r.get("notes") or "").lower():
+                quarantined.append({"id": cid, "reason": "award notice status: cancelled"})
+                continue
             key = norm_name(raw_vendor)
             key = variant_to_key.get(key, key)
             if key not in vendors:

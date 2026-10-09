@@ -506,7 +506,7 @@
   ]
  },
  {
-  "id": "V00035",
+  "id": "V00034",
   "name": "Minose Solutions",
   "hq_country": "Canada",
   "ownership": "canadian",
@@ -567,25 +567,6 @@
  },
  {
   "id": "V00031",
-  "name": "Industrio AI",
-  "hq_country": "Canada",
-  "ownership": "canadian",
-  "ownership_evidence": "https://www.newswire.ca/news-releases/industrio-launches-canadian-built-operational-intelligence-platform-862016785.html",
-  "spend": 235000.0,
-  "contracts": 1,
-  "variants": [
-   "Industrio AI",
-   "Industrio AI Inc."
-  ],
-  "departments": [
-   "Department of Western Economic Diversification (WD)"
-  ],
-  "fiscal_years": [
-   "2026-27"
-  ]
- },
- {
-  "id": "V00032",
   "name": "Blue J Legal",
   "hq_country": "Canada",
   "ownership": "canadian",
@@ -604,7 +585,7 @@
   ]
  },
  {
-  "id": "V00033",
+  "id": "V00032",
   "name": "Au-Zone Technologies",
   "hq_country": "Canada",
   "ownership": "canadian",
@@ -622,7 +603,7 @@
   ]
  },
  {
-  "id": "V00034",
+  "id": "V00033",
   "name": "Complex System Inc",
   "hq_country": "Canada",
   "ownership": "canadian",
@@ -660,7 +641,7 @@
   ]
  },
  {
-  "id": "V00036",
+  "id": "V00035",
   "name": "CI Technologies",
   "hq_country": "Canada",
   "ownership": "canadian",
@@ -679,7 +660,7 @@
   ]
  },
  {
-  "id": "V00037",
+  "id": "V00036",
   "name": "6854265 Canada Inc",
   "hq_country": "Canada",
   "ownership": "uncertain",
@@ -700,7 +681,7 @@
   ]
  },
  {
-  "id": "V00038",
+  "id": "V00037",
   "name": "13064204 Canada Inc",
   "hq_country": "Canada",
   "ownership": "uncertain",
@@ -719,7 +700,7 @@
   ]
  },
  {
-  "id": "V00039",
+  "id": "V00038",
   "name": "RideShark Corporation",
   "hq_country": "Canada",
   "ownership": "canadian",
@@ -737,7 +718,7 @@
   ]
  },
  {
-  "id": "V00040",
+  "id": "V00039",
   "name": "Anaconda Inc",
   "hq_country": "United States",
   "ownership": "foreign",
