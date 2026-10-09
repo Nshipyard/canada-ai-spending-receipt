@@ -92,7 +92,7 @@ export default function Explorer() {
     try {
       const res = await fetch(`/api/v1/vendor/lookup?vendor_id=${encodeURIComponent(id)}`);
       const data = await res.json();
-      setDetail(data.id ? { ...data, contracts_list: data.contracts ?? [] } : null);
+      setDetail(data.id ? { ...data, contracts: (data.contracts ?? []).length, contracts_list: data.contracts ?? [] } : null);
     } finally {
       setDetailLoading(false);
     }
